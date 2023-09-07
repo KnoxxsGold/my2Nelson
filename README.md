@@ -16,3 +16,15 @@ Every year my family travels up north to **Ely** for a few days to spend time to
 
 [Here is a link to MyStats.md](https://github.com/KnoxxsGold/my2Nelson/blob/main/MyStats.md
 )
+
+
+***<br><br>
+
+
+Below is a short list of 4 sports I believe you should try. 
+| Sports | Reasoning | Hours |
+| ------ | --------- | ----- |
+| Water Polo | Water Polo is a strange sport enjoyed by many | 0 |
+| Horseback Archery | Fun and Practical training | 0 |
+|Chess | Everyone loves chess | 1 |
+| Pickle Ball | Simple and fun | 0 |
