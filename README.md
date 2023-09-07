@@ -14,3 +14,5 @@ Every year my family travels up north to **Ely** for a few days to spend time to
 * Hamburgers from the Boathouse
 * Grilled Cheese Gator's Grilled Cheese Emporium
 
+[Here is a link to MyStats.md](https://github.com/KnoxxsGold/my2Nelson/blob/main/MyStats.md
+)
