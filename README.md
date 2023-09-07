@@ -9,3 +9,8 @@ Every year my family travels up north to **Ely** for a few days to spend time to
 2. Hike
 3. Sleep
 
+### Things to eat
+* French Toast from Stony Ridge
+* Hamburgers from the Boathouse
+* Grilled Cheese Gator's Grilled Cheese Emporium
+
