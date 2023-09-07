@@ -28,3 +28,13 @@ Below is a short list of 4 sports I believe you should try.
 | Horseback Archery | Fun and Practical training | 0 |
 |Chess | Everyone loves chess | 1 |
 | Pickle Ball | Simple and fun | 0 |
+
+
+***
+
+### Quotes from scientists
+
+>"The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge." *Stephen Hawking*
+
+>"I never thought I'd live to see a resonance cascade, let alone create one" *Dr. Luther*
+
